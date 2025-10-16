@@ -81,9 +81,9 @@ const Agency = () => {
             </h1>
           </div>
           <div className="pl-[40%] mt-20">
-            <p className="text-6xl">
+            <p className="text-5xl">
               {" "}
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               We’re inquisitive and open-minded, and we make sure creativity
               crowds out ego from every corner. A brand is a living thing, with
               values, a personality and a story. If we ignore that, we can
