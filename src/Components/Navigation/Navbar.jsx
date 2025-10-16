@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div className="z-4 flex fixed top-0 w-full items-start justify-between">
       <div className="lg:p-5 p-2 ">
-        <div className="lg:w-36 w-24 bg-black">
+        <div className="lg:w-36 w-24">
           <svg
             className=" w-full p-0.5"
             xmlns="http://www.w3.org/2000/svg"

@@ -4,7 +4,7 @@ import { ScrollTrigger } from "gsap/all";
 import React from "react";
 import { useRef } from "react";
 
-const Agency = () => {
+const Agency = ({}) => {
   gsap.registerPlugin(ScrollTrigger);
 
   const imageDivRef = useRef(null);
@@ -59,7 +59,12 @@ const Agency = () => {
   });
 
   return (
+    
     <div className="parent">
+      
+
+
+
       <div id="page1" className=" py-1">
         <div
           ref={imageDivRef}
