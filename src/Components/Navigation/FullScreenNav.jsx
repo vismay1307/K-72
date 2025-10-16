@@ -2,7 +2,7 @@ import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import React, { useContext, useEffect, useRef, useState } from 'react'
 import { NavbarContext } from '../Context/NavContext'
-import { Link, Links } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 const FullScreenNav = () => {
     const fullNavLinksRef = useRef(null)
@@ -109,8 +109,10 @@ const FullScreenNav = () => {
 
 
        <div className='link origin-top relative border-t-1 border-white'>
+        
   <h1 className='font-[font2] text-7xl lg:text-[4vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>PROJECTS</h1>
   <div className='moveLink absolute text-black w-full flex top-0 bg-[#D3FD50]'>
+    <Link to="/projects" className="flex items-center gap-2">
     <div className='moveX flex items-center justify-center gap-4'>
       <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>SEE EVERYTHING</h2>
         <div className="h-19 w-39 rounded-full overflow-hidden"><img className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-top'
@@ -132,6 +134,7 @@ const FullScreenNav = () => {
     </div>
 
     <div className='moveX flex items-center justify-center gap-4'>
+        
       <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>
         SEE EVERYTHING
       </h2>
@@ -156,7 +159,7 @@ const FullScreenNav = () => {
         />
       </div>
     </div>
-
+</Link>
   </div>
 </div>
 
@@ -164,6 +167,7 @@ const FullScreenNav = () => {
              <div className='link origin-top relative border-t-1 border-white'>
   <h1 className='font-[font2] text-7xl lg:text-[4vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Agency</h1>
   <div className='moveLink absolute text-black w-full flex top-0 bg-[#D3FD50]'>
+    <Link to="/agency" className="flex items-center gap-2">
     <div className='moveX flex items-center justify-center gap-4'>
       <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>ABOUT US</h2>
         <div className="h-19 w-39 rounded-full overflow-hidden"><img className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-top'
@@ -207,7 +211,7 @@ const FullScreenNav = () => {
         />
       </div>
     </div>
-
+</Link>
   </div>
 </div>
 
