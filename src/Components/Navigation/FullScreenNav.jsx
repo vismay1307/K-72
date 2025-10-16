@@ -100,89 +100,157 @@ const FullScreenNav = () => {
 
                     </div>
                 </div>
+
+
+
+
                 <div className=' py-6 h-[90%]'>
+             
+
+
+       <div className='link origin-top relative border-t-1 border-white'>
+  <h1 className='font-[font2] text-7xl lg:text-[4vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>PROJECTS</h1>
+  <div className='moveLink absolute text-black w-full flex top-0 bg-[#D3FD50]'>
+    <div className='moveX flex items-center justify-center gap-4'>
+      <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>SEE EVERYTHING</h2>
+        <div className="h-19 w-39 rounded-full overflow-hidden"><img className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-top'
+
+
+          src='https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg'alt=""/>
+      </div>
+<h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>
+        SEE EVERYTHING
+      </h2>
+
+      <div className="h-19 w-39 rounded-full overflow-hidden">
+        <img
+          className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-[center_20%]'
+          src='https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg'
+          alt=""
+        />
+      </div>
+    </div>
+
+    <div className='moveX flex items-center justify-center gap-4'>
+      <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>
+        SEE EVERYTHING
+      </h2>
+
+      <div className="h-19 w-39 rounded-full overflow-hidden">
+        <img
+          className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-top'
+          src='https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg'
+          alt=""
+        />
+      </div>
+
+      <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>
+        SEE EVERYTHING
+      </h2>
+
+      <div className="h-19 w-39 rounded-full overflow-hidden">
+        <img
+          className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-[center_20%]'
+          src='https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg'
+          alt=""
+        />
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+             <div className='link origin-top relative border-t-1 border-white'>
+  <h1 className='font-[font2] text-7xl lg:text-[4vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Agency</h1>
+  <div className='moveLink absolute text-black w-full flex top-0 bg-[#D3FD50]'>
+    <div className='moveX flex items-center justify-center gap-4'>
+      <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>ABOUT US</h2>
+        <div className="h-19 w-39 rounded-full overflow-hidden"><img className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-top'
+          src='https://k72.ca/images/teamMembers/HugoJoseph_480x640.jpg?w=480&h=640&fit=crop&s=f152025b8a59b062d1e7978b5d6544c3'alt=""/>
+      </div>
+<h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>
+        ABOUT US
+      </h2>
+
+      <div className="h-19 w-39 rounded-full overflow-hidden">
+        <img
+          className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-[center_20%]'
+          src='https://k72.ca/images/teamMembers/MEGGIE_480X640_2.jpg?w=480&h=640&fit=crop&s=3604b19f8fc7b40f517954147698d847'
+          alt=""
+        />
+      </div>
+    </div>
+
+    <div className='moveX flex items-center justify-center gap-4'>
+      <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>
+        ABOUT US
+      </h2>
+
+      <div className="h-19 w-39 rounded-full overflow-hidden">
+        <img
+          className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-top'
+          src='https://k72.ca/images/teamMembers/HugoJoseph_480x640.jpg?w=480&h=640&fit=crop&s=f152025b8a59b062d1e7978b5d6544c3'
+          alt=""
+        />
+      </div>
+
+      <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl lg:leading-[0.8] text-center lg:pt-10 pt-4 uppercase'>
+        ABOUT US
+      </h2>
+
+      <div className="h-19 w-39 rounded-full overflow-hidden">
+        <img
+          className='h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-cover object-[center_20%]'
+          src='https://k72.ca/images/teamMembers/MEGGIE_480X640_2.jpg?w=480&h=640&fit=crop&s=3604b19f8fc7b40f517954147698d847'
+          alt=""
+        />
+      </div>
+    </div>
+
+  </div>
+</div>
+
                     <div className='link origin-top relative border-t-1 border-white'>
-                        <h1 className='font-[font2] text-7xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Projects</h1>
-                        <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
-                            <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEE EVERYTHING</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg" alt="" />
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEE EVERYTHING</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg" alt="" />
+                        <h1 className='font-[font2] text-7xl lg:text-[4vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Contact</h1>
+                        <div className='moveLink absolute text-black items-center flex-row justify-center flex top-0 bg-[#D3FD50]'>
+                            <div className='moveX flex items-center flex-row justify-center'>
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl  text-center lg:leading-[0.8] lg:pt-10  pt-6.5 uppercase'>SEND US A TEXT</h2>
+                                <img className=' h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-contain' src=" /img/anne (1).jpg " alt="" />
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl  text-center lg:leading-[0.8] lg:pt-10  pt-6.5 uppercase'>SEND US A TEXT</h2>
+                                <img className=' h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-contain' src=" /img/syd (1).jpg " alt="" />
                             </div>
                             <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEE EVERYTHING</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg" alt="" />
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEE EVERYTHING</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg" alt="" />
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl  text-center lg:leading-[0.8] lg:pt-10 pt-6.5 uppercase'>SEND US A TEXT</h2>
+                                <img className=' h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-contain' src=" /img/anne (1).jpg " alt="" />
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] text-3xl  text-center lg:leading-[0.8] lg:pt-10  pt-6.5 uppercase'>SEND US A TEXT</h2>
+                                <img className=' h-19 rounded-full shrink-0 pr-2 pl-2 w-39 object-contain' src="/img/syd (1).jpg  " alt="" />
                             </div>
                         </div>
 
                     </div>
-                    <div className='link origin-top relative border-t-1 border-white'>
-                    <h1 className='font-[font2] text-7xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>  Agency</h1> 
-                        <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
-                            <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>ABOUT US</h2>
-                               <div className="lg:h-36 h-14 lg:w-36 w-14 rounded-full overflow-hidden"  > <img className='w-full h-full object-cover object-top' src='https://k72.ca/images/teamMembers/HugoJoseph_480x640.jpg?w=480&h=640&fit=crop&s=f152025b8a59b062d1e7978b5d6544c3'
- alt="" /></div>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>ABOUT US</h2>
-                               <div className="lg:h-36 h-14 lg:w-36 w-14 rounded-full overflow-hidden"> <img className='w-full h-full object-cover object-top' src='https://k72.ca/images/teamMembers/MEGGIE_480X640_2.jpg?w=480&h=640&fit=crop&s=3604b19f8fc7b40f517954147698d847'
- alt="" /></div>
+                    <div className='link mb-3 origin-top relative border-y-1 flex align-middle justify-center  border-white'>
+                        <h1 className='font-[font2] text-4xl lg:text-[4vw] flex align-middle justify-center  text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Blogs</h1>
+                        <div className='moveLink absolute text-black flex  top-0 bg-[#D3FD50]'>
+                            <div className='moveX flex items-center justify-center'>
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] pr-2 pl-2  text-3xl  text-center lg:leading-[0.8]   lg:pt-10  pt-6.5 uppercase'>READ ARTICLES</h2>
+                                <img className=' h-19 rounded-full shrink-0  pr-2 pl-2 w-38 object-contain' src="https://k72.ca/images/blog/blogImg/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png?w=1280&h=960&s=0710934494c383dae85863a13e713d46" alt="" />
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] pr-2 pl-2  text-3xl  text-center lg:leading-[0.8]   lg:pt-10 pt-6.5 uppercase'>READ ARTICLES</h2>
+                                <img className=' h-19 rounded-full shrink-0  pr-2 pl-2 w-38 object-contain' src="https://k72.ca/uploads/blog/blogImg/ier.com-16107673482102220.gif" alt="" />
                             </div>
-                            <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>ABOUT US</h2>
-                              <div className="lg:h-36 h-14 lg:w-36 w-14 rounded-full overflow-hidden"> <img className='w-full h-full object-cover object-top' src='https://k72.ca/images/teamMembers/HugoJoseph_480x640.jpg?w=480&h=640&fit=crop&s=f152025b8a59b062d1e7978b5d6544c3'
- alt="" /></div> 
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>ABOUT US</h2>
-                                <div className="lg:h-36 h-14 lg:w-36 w-14 rounded-full overflow-hidden"><img className='w-full h-full object-cover object-top' src='https://k72.ca/images/teamMembers/MEGGIE_480X640_2.jpg?w=480&h=640&fit=crop&s=3604b19f8fc7b40f517954147698d847'
- alt="" /></div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div className='link origin-top relative border-t-1 border-white'>
-                        <h1 className='font-[font2] text-7xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Contact</h1>
-                        <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
-                            <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEND US A TEXT</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src=" /img/anne (1).jpg " alt="" />
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEND US A TEXT</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src=" /img/syd (1).jpg " alt="" />
-                            </div>
-                            <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEND US A TEXT</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src=" /img/anne (1).jpg " alt="" />
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>SEND US A TEXT</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="/img/syd (1).jpg  " alt="" />
-                            </div>
-                        </div>
-
-                    </div>
-                    <div className='link mb-3 origin-top relative border-y-1 border-white'>
-                        <h1 className='font-[font2] text-7xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Blogs</h1>
-                        <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
-                            <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>READ ARTICLES</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/images/blog/blogImg/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png?w=1280&h=960&s=0710934494c383dae85863a13e713d46" alt="" />
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>READ ARTICLES</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/uploads/blog/blogImg/ier.com-16107673482102220.gif" alt="" />
-                            </div>
-                            <div className='moveX flex items-center'>
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>READ ARTICLES</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/images/blog/blogImg/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png?w=1280&h=960&s=0710934494c383dae85863a13e713d46" alt="" />
-                                <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>READ ARTICLES</h2>
-                                <img className='lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover' src="https://k72.ca/uploads/blog/blogImg/ier.com-16107673482102220.gif" alt="" />
+                            <div className='moveX flex items-center justify-center '>
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] pr-2 pl-2  text-3xl  text-center lg:leading-[0.8]  lg:pt-10 pt-6.5 uppercase'>READ ARTICLES</h2>
+                                <img className=' h-19 rounded-full shrink-0 pr-2 pl-2  w-38 object-contain' src="https://k72.ca/images/blog/blogImg/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png?w=1280&h=960&s=0710934494c383dae85863a13e713d46" alt="" />
+                                <h2 className='whitespace-nowrap font-[font2] lg:text-[4vw] pr-2 pl-2  text-3xl  text-center lg:leading-[0.8]  lg:pt-10  pt-6.5 uppercase'>READ ARTICLES</h2>
+                                <img className=' h-19 rounded-full shrink-0 pr-2 pl-2  w-38 object-contain' src="https://k72.ca/uploads/blog/blogImg/ier.com-16107673482102220.gif" alt="" />
                             </div>
                         </div>
 
                     </div>
                 </div>
-                <div className=" h-screen">
-                        
-      </div>
+            
             </div>
-        </div>
+        </div> 
     )
 }
 
